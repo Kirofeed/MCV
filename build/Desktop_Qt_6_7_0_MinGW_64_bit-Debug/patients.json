@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Кирилл Дрожжа",
+        "diagnosis": "Сошел с ума",
+        "room": 100
+    },
+    {
+        "name": "John Smith",
+        "diagnosis": "Flu",
+        "room": 101
+    },
+    {
+        "name": "Mary Johnson",
+        "diagnosis": "Bronchitis",
+        "room": 102
+    },
+    {
+        "name": "Robert Brown",
+        "diagnosis": "Pneumonia",
+        "room": 103
+    },
+    {
+        "name": "Linda Davis",
+        "diagnosis": "Asthma",
+        "room": 104
+    },
+    {
+        "name": "Michael Wilson",
+        "diagnosis": "Diabetes",
+        "room": 105
+    },
+    {
+        "name": "Barbara Taylor",
+        "diagnosis": "Hypertension",
+        "room": 106
+    },
+    {
+        "name": "William Jones",
+        "diagnosis": "Migraine",
+        "room": 107
+    },
+    {
+        "name": "Susan Moore",
+        "diagnosis": "Allergies",
+        "room": 108
+    },
+    {
+        "name": "James Miller",
+        "diagnosis": "Depression",
+        "room": 109
+    },
+    {
+        "name": "Karen Anderson",
+        "diagnosis": "Arthritis",
+        "room": 110
+    },
+    {
+        "name": "David Thomas",
+        "diagnosis": "Anemia",
+        "room": 111
+    },
+    {
+        "name": "Patricia Jackson",
+        "diagnosis": "Gastroenteritis",
+        "room": 112
+    },
+    {
+        "name": "Richard White",
+        "diagnosis": "Heart Disease",
+        "room": 113
+    },
+    {
+        "name": "Jennifer Harris",
+        "diagnosis": "Kidney Stones",
+        "room": 114
+    },
+    {
+        "name": "Joseph Martin",
+        "diagnosis": "Liver Disease",
+        "room": 115
+    },
+    {
+        "name": "Sarah Thompson",
+        "diagnosis": "Stroke",
+        "room": 116
+    },
+    {
+        "name": "Charles Garcia",
+        "diagnosis": "Tuberculosis",
+        "room": 117
+    },
+    {
+        "name": "Lisa Martinez",
+        "diagnosis": "COVID-19",
+        "room": 118
+    },
+    {
+        "name": "Christopher Clark",
+        "diagnosis": "Cancer",
+        "room": 119
+    },
+    {
+        "name": "Nancy Rodriguez",
+        "diagnosis": "Epilepsy",
+        "room": 120
+    }
+]
+
